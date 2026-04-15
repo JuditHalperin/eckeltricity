@@ -2,7 +2,7 @@
 
 Analyze household electricity consumption data and compare pricing plans.
 
-> *"They run off eckeltricity, do they?"* — Arthur Weasley
+> *"They run off eckeltricity, do they? Ah, yes, I can see the plugs. I collect plugs."* — Arthur Weasley
 
 ## Usage
 
